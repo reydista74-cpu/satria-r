@@ -2,3 +2,5 @@ WPU RESOLUSI
 -tugas #2
 -buat platfrom
 -buat forum
+-terserah
+-manut
