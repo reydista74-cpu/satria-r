@@ -6,3 +6,4 @@ RENCANA KONTEN
 -interview
 -vlog
 ^belajar
+^kenapanyak
