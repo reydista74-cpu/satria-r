@@ -2,5 +2,6 @@ RENCANA KONTEN
 
 -adalah
 *promotion
+-hahay
 -interview
 -vlog
